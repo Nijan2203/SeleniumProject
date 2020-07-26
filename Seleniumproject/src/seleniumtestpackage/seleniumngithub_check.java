@@ -10,6 +10,11 @@ public class seleniumngithub_check {
 		
 		Right click on the project -> Team -> share project -> select the repo and click finish
 		
+		Right click on the project -> Team -> commit 
+		
+		Move the file to the stage chages and commit 
+		
+		
 		
 
 }
